@@ -8,7 +8,7 @@ This portfolio showcases a collection of my projects that I have completed in th
 
 ## Technologies Used
 
-- React
+- React JS
 - Tailwind CSS
 
 ## Features
