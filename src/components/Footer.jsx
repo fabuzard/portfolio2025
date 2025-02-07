@@ -4,7 +4,7 @@ function Footer() {
 	return (
 		<div className="py-5 bg-slate-800 text-center text-gray-300 rounded-t-lg">
 			<a href="#hero" className="block text-xl md:text-2xl font-semibold">
-				Shiaf Arfan
+				Fahreza Abuzard Alghifary
 			</a>
 			<a
 				href="mailto:fabuzard123@gmail.com"

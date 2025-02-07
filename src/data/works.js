@@ -1,30 +1,17 @@
 export default [
 	{
-		title: 'TechHub-Blog',
+		title: 'Frontend Ecommerce App',
 		imgUrl:
-			'https://raw.githubusercontent.com/ShaifArfan/techHub-blog/main/banner.png',
-		tech: ['React JS', 'Gatsby JS', 'Sanity.io'],
-		workUrl: 'https://github.com/ShaifArfan/techHub-blog',
+			'https://i.imgur.com/YVLq5CS.png',
+		tech: ['React JS', 'Redux',"Tailwind","Rest Api"],
+		workUrl: 'https://github.com/fabuzard/React-Store-App',
 	},
 	{
-		title: "Shaif'f Cuisine",
+		title: "Weather App",
 		imgUrl:
-			'https://raw.githubusercontent.com/ShaifArfan/shaif-s-cuisine/main/readmeImg/banner.png',
-		tech: ['HTML', 'CSS', 'Netlify'],
-		workUrl: 'https://github.com/ShaifArfan/shaif-s-cuisine',
+			'https://i.imgur.com/tTJfms5.png',
+		tech: ['Vue', 'Tailwind', 'Rest API'],
+		workUrl: 'https://github.com/fabuzard/weather-app',
 	},
-	{
-		title: "Ayan's Portfolio Website",
-		imgUrl:
-			'https://raw.githubusercontent.com/ShaifArfan/AYANs-portfolio/main/ReadMeImages/ReadMeBanner.png',
-		tech: ['React JS', 'CSS'],
-		workUrl: 'https://github.com/ShaifArfan/AYANs-portfolio',
-	},
-	{
-		title: 'Artistic',
-		imgUrl:
-			'https://raw.githubusercontent.com/ShaifArfan/artistic/main/readmeImg/banner.png',
-		tech: ['React JS', 'CSS'],
-		workUrl: 'https://github.com/ShaifArfan/artistic',
-	},
+	
 ];
