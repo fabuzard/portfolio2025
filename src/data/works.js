@@ -3,7 +3,7 @@ export default [
 		title: 'Frontend Ecommerce App',
 		imgUrl:
 			'https://i.imgur.com/YVLq5CS.png',
-		tech: ['React JS', 'Redux',"Tailwind","Rest Api"],
+		tech: ['React', 'Redux',"Tailwind","Rest Api"],
 		workUrl: 'https://github.com/fabuzard/React-Store-App',
 	},
 	{
@@ -13,5 +13,13 @@ export default [
 		tech: ['Vue', 'Tailwind', 'Rest API'],
 		workUrl: 'https://github.com/fabuzard/weather-app',
 	},
+	{
+		title: "Food Order App",
+		imgUrl:
+			'https://i.imgur.com/uWOmkNH.png',
+		tech: ['React', 'Tailwind', 'NodeJS','Jotai'],
+		workUrl: 'https://github.com/fabuzard/food-order-app',
+	},
+	
 	
 ];
